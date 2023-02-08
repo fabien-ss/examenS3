@@ -1,0 +1,18 @@
+#row1{
+    margin-top: 3%;
+    height:1200px;
+    height:250px;
+    padding-left: 10%;
+    padding-right: 11%;
+    display: inline-flex;
+}
+
+#row1 img{
+    width:250px;
+    height:250px;
+    border-radius: 50%;
+}
+
+#soratra{
+    margin:22px 50px 5px 48px;
+}
